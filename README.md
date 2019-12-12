@@ -21,5 +21,6 @@ Feel free to join and propose changes to any of these images by opening an issue
 ## LICENSE
 - [GPL V3](LICENSE)
 - Created with [Inkscape](https://inkscape.org).
+- [Open Sans](https://www.opensans.com) font is used for texts.
 - Drupal is a registered trademark of [Dries Buytaert](https://dri.es).
 
