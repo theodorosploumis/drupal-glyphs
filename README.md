@@ -4,21 +4,22 @@
 > A free to use collection of svg glyphs, illustrations and icons related to **Drupal CMS**. Suitable for presentations, proposals, education materials etc.
 
 ## Contents
-![Drupal API|30%](images/drupal_api.svg)
-![Drupal architecture|30%](images/drupal_architecture.svg)
-![Drupal concepts|30%](images/drupal_concepts.svg)
-![Drupal dataflow diagram|30%](images/drupal_dataflow_diagram.svg)
-![Drupal development roles|30%](images/drupal_development_roles.svg)
-![Drupal entities explained|30%](images/drupal_entities_explained.svg)
-![Drupal page elements|30%](images/drupal_page_elements.svg)
-![Drupal render flow|30%](images/drupal_render_flow.svg)
-![Drupal SEO|30%](images/drupal_seo.svg)
-![Drupal software layers|30%](images/drupal_software_layers.svg)
+![Drupal API](png/drupal_api.png)
+![Drupal architecture](png/drupal_architecture.png)
+![Drupal concepts](png/drupal_concepts.png)
+![Drupal dataflow diagram](png/drupal_dataflow_diagram.png)
+![Drupal development roles](png/drupal_development_roles.png)
+![Drupal entities explained](png/drupal_entities_explained.png)
+![Drupal page elements](png/drupal_page_elements.png)
+![Drupal render flow](png/drupal_render_flow.png)
+![Drupal SEO](png/drupal_seo.png)
+![Drupal software layers](png/drupal_software_layers.png)
 
 ## Contribute
-Feel free to join and propose changes to any of these images by opening an issue or a pull request.
+Feel free to join and propose changes to any of these images by opening an issue or a pull request. The svg images can be found at folder [source](source).
 
 ## LICENSE
-[GPL V3](LICENSE)
+- [GPL V3](LICENSE)
+- Created with [Inkscape](https://inkscape.org).
+- Drupal is a registered trademark of [Dries Buytaert](https://dri.es).
 
-Created with [Inkscape](https://inkscape.org).

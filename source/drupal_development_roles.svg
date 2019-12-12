@@ -15,7 +15,7 @@
    id="svg4602"
    version="1.1"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="Drupal_Development_roles.svg">
+   sodipodi:docname="drupal_development_roles.svg">
   <defs
      id="defs4604">
     <marker
@@ -43,7 +43,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
-     inkscape:cx="76.56155"
+     inkscape:cx="-254.76848"
      inkscape:cy="687.53375"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -75,7 +75,10 @@
      id="layer1"
      transform="translate(6.2185903,274.74413)">
     <g
-       id="g2187">
+       id="g2187"
+       inkscape:export-filename="/home/tpl/Desktop/drupal-glyphs/png/drupal_development_roles.png"
+       inkscape:export-xdpi="76.680412"
+       inkscape:export-ydpi="76.680412">
       <text
          id="text5459"
          y="418.99655"

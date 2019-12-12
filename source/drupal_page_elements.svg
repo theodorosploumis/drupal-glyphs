@@ -9,13 +9,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="262.62582mm"
-   height="665.85614mm"
-   viewBox="0 0 930.56394 2359.3328"
+   width="907.31628mm"
+   height="205.4812mm"
+   viewBox="0 0 3214.9002 728.083"
    id="svg8469"
    version="1.1"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="drupal_page.svg">
+   sodipodi:docname="drupal_page_elements.svg">
   <defs
      id="defs8471" />
   <sodipodi:namedview
@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.1872566"
-     inkscape:cx="405.33293"
-     inkscape:cy="966.76943"
+     inkscape:cx="1868.5657"
+     inkscape:cy="-463.49493"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -58,67 +58,70 @@
      id="layer1"
      transform="translate(-37.071432,-62.29097)">
     <g
-       id="g8082">
-      <g
-         transform="matrix(0.32203219,0,0,0.32203219,243.84264,362.27863)"
-         style="fill:#28a9e0;fill-opacity:1"
-         id="g10996" />
-      <g
-         transform="matrix(0.32203219,0,0,0.32203219,243.84264,362.27863)"
-         style="fill:#28a9e0;fill-opacity:1"
-         id="g10998" />
-      <g
-         transform="matrix(0.32203219,0,0,0.32203219,243.84264,362.27863)"
-         style="fill:#28a9e0;fill-opacity:1"
-         id="g11000" />
-      <g
-         transform="matrix(0.32203219,0,0,0.32203219,243.84264,362.27863)"
-         style="fill:#28a9e0;fill-opacity:1"
-         id="g11002" />
-      <g
-         transform="matrix(0.32203219,0,0,0.32203219,243.84264,362.27863)"
-         style="fill:#28a9e0;fill-opacity:1"
-         id="g11004" />
-      <g
-         transform="matrix(0.32203219,0,0,0.32203219,243.84264,362.27863)"
-         style="fill:#28a9e0;fill-opacity:1"
-         id="g11006" />
-      <g
-         transform="matrix(0.32203219,0,0,0.32203219,243.84264,362.27863)"
-         style="fill:#28a9e0;fill-opacity:1"
-         id="g11008" />
-      <g
-         transform="matrix(0.32203219,0,0,0.32203219,243.84264,362.27863)"
-         style="fill:#28a9e0;fill-opacity:1"
-         id="g11010" />
-      <g
-         transform="matrix(0.32203219,0,0,0.32203219,243.84264,362.27863)"
-         style="fill:#28a9e0;fill-opacity:1"
-         id="g11012" />
-      <g
-         transform="matrix(0.32203219,0,0,0.32203219,243.84264,362.27863)"
-         style="fill:#28a9e0;fill-opacity:1"
-         id="g11014" />
-      <g
-         transform="matrix(0.32203219,0,0,0.32203219,243.84264,362.27863)"
-         style="fill:#28a9e0;fill-opacity:1"
-         id="g11016" />
-      <g
-         transform="matrix(0.32203219,0,0,0.32203219,243.84264,362.27863)"
-         style="fill:#28a9e0;fill-opacity:1"
-         id="g11018" />
-      <g
-         transform="matrix(0.32203219,0,0,0.32203219,243.84264,362.27863)"
-         style="fill:#28a9e0;fill-opacity:1"
-         id="g11020" />
-      <g
-         transform="matrix(0.32203219,0,0,0.32203219,243.84264,362.27863)"
-         style="fill:#28a9e0;fill-opacity:1"
-         id="g11022" />
-      <g
-         transform="matrix(0.32203219,0,0,0.32203219,243.84264,362.27863)"
-         style="fill:#28a9e0;fill-opacity:1"
-         id="g11024" />
+       id="g10996"
+       style="fill:#28a9e0;fill-opacity:1"
+       transform="matrix(0.32203219,0,0,0.32203219,243.84264,362.27863)" />
+    <g
+       id="g10998"
+       style="fill:#28a9e0;fill-opacity:1"
+       transform="matrix(0.32203219,0,0,0.32203219,243.84264,362.27863)" />
+    <g
+       id="g11000"
+       style="fill:#28a9e0;fill-opacity:1"
+       transform="matrix(0.32203219,0,0,0.32203219,243.84264,362.27863)" />
+    <g
+       id="g11002"
+       style="fill:#28a9e0;fill-opacity:1"
+       transform="matrix(0.32203219,0,0,0.32203219,243.84264,362.27863)" />
+    <g
+       id="g11004"
+       style="fill:#28a9e0;fill-opacity:1"
+       transform="matrix(0.32203219,0,0,0.32203219,243.84264,362.27863)" />
+    <g
+       id="g11006"
+       style="fill:#28a9e0;fill-opacity:1"
+       transform="matrix(0.32203219,0,0,0.32203219,243.84264,362.27863)" />
+    <g
+       id="g11008"
+       style="fill:#28a9e0;fill-opacity:1"
+       transform="matrix(0.32203219,0,0,0.32203219,243.84264,362.27863)" />
+    <g
+       id="g11010"
+       style="fill:#28a9e0;fill-opacity:1"
+       transform="matrix(0.32203219,0,0,0.32203219,243.84264,362.27863)" />
+    <g
+       id="g11012"
+       style="fill:#28a9e0;fill-opacity:1"
+       transform="matrix(0.32203219,0,0,0.32203219,243.84264,362.27863)" />
+    <g
+       id="g11014"
+       style="fill:#28a9e0;fill-opacity:1"
+       transform="matrix(0.32203219,0,0,0.32203219,243.84264,362.27863)" />
+    <g
+       id="g11016"
+       style="fill:#28a9e0;fill-opacity:1"
+       transform="matrix(0.32203219,0,0,0.32203219,243.84264,362.27863)" />
+    <g
+       id="g11018"
+       style="fill:#28a9e0;fill-opacity:1"
+       transform="matrix(0.32203219,0,0,0.32203219,243.84264,362.27863)" />
+    <g
+       id="g11020"
+       style="fill:#28a9e0;fill-opacity:1"
+       transform="matrix(0.32203219,0,0,0.32203219,243.84264,362.27863)" />
+    <g
+       id="g11022"
+       style="fill:#28a9e0;fill-opacity:1"
+       transform="matrix(0.32203219,0,0,0.32203219,243.84264,362.27863)" />
+    <g
+       id="g11024"
+       style="fill:#28a9e0;fill-opacity:1"
+       transform="matrix(0.32203219,0,0,0.32203219,243.84264,362.27863)" />
+    <g
+       id="g4734"
+       inkscape:export-filename="/home/tpl/Desktop/drupal-glyphs/png/drupal_page_elements.png"
+       inkscape:export-xdpi="85.241302"
+       inkscape:export-ydpi="85.241302">
       <g
          transform="translate(0,1.9300493e-4)"
          id="g5907">
@@ -910,7 +913,7 @@
                   <polygon
                      style="fill:#050505;fill-opacity:1"
                      id="polygon9780"
-                     points="151.889,224.692 85.651,224.692 85.651,244.678 107.921,244.678 107.921,365.445 129.048,365.445 129.048,244.678 151.889,244.678 " />
+                     points="107.921,365.445 129.048,365.445 129.048,244.678 151.889,244.678 151.889,224.692 85.651,224.692 85.651,244.678 107.921,244.678 " />
                   <path
                      style="fill:#050505;fill-opacity:1"
                      id="path9782"
@@ -1121,7 +1124,7 @@
                  style="fill:#050505;fill-opacity:1" />
               <polygon
                  id="polygon10119"
-                 points="73.092,365.447 73.092,420.267 475.085,420.267 475.085,292.36 356.315,173.587 210.134,319.765 164.452,274.088 "
+                 points="356.315,173.587 210.134,319.765 164.452,274.088 73.092,365.447 73.092,420.267 475.085,420.267 475.085,292.36 "
                  style="fill:#050505;fill-opacity:1" />
             </g>
             <g
@@ -1140,7 +1143,7 @@
                  id="path10187" />
               <polygon
                  style="fill:#050505;fill-opacity:1"
-                 points="475.085,420.267 475.085,292.36 356.315,173.587 210.134,319.765 164.452,274.088 73.092,365.447 73.092,420.267 "
+                 points="164.452,274.088 73.092,365.447 73.092,420.267 475.085,420.267 475.085,292.36 356.315,173.587 210.134,319.765 "
                  id="polygon10189" />
             </g>
             <g
@@ -1162,7 +1165,7 @@
                    style="fill:#050505;fill-opacity:1" />
                 <polygon
                    id="polygon10231"
-                   points="210.134,319.765 164.452,274.088 73.092,365.447 73.092,420.267 475.085,420.267 475.085,292.36 356.315,173.587 "
+                   points="475.085,420.267 475.085,292.36 356.315,173.587 210.134,319.765 164.452,274.088 73.092,365.447 73.092,420.267 "
                    style="fill:#050505;fill-opacity:1" />
               </g>
             </g>
@@ -1245,7 +1248,7 @@
                    id="path10271" />
                 <polygon
                    style="fill:#050505;fill-opacity:1"
-                   points="73.092,365.447 73.092,420.267 475.085,420.267 475.085,292.36 356.315,173.587 210.134,319.765 164.452,274.088 "
+                   points="356.315,173.587 210.134,319.765 164.452,274.088 73.092,365.447 73.092,420.267 475.085,420.267 475.085,292.36 "
                    id="polygon10273" />
               </g>
             </g>
@@ -1328,7 +1331,7 @@
                    id="path10313" />
                 <polygon
                    style="fill:#050505;fill-opacity:1"
-                   points="475.085,420.267 475.085,292.36 356.315,173.587 210.134,319.765 164.452,274.088 73.092,365.447 73.092,420.267 "
+                   points="164.452,274.088 73.092,365.447 73.092,420.267 475.085,420.267 475.085,292.36 356.315,173.587 210.134,319.765 "
                    id="polygon10315" />
               </g>
             </g>
@@ -1411,7 +1414,7 @@
                    style="fill:#050505;fill-opacity:1" />
                 <polygon
                    id="polygon10357"
-                   points="356.315,173.587 210.134,319.765 164.452,274.088 73.092,365.447 73.092,420.267 475.085,420.267 475.085,292.36 "
+                   points="73.092,420.267 475.085,420.267 475.085,292.36 356.315,173.587 210.134,319.765 164.452,274.088 73.092,365.447 "
                    style="fill:#050505;fill-opacity:1" />
               </g>
             </g>
@@ -2000,7 +2003,7 @@
                      style="fill:#2ba9e0;fill-opacity:1">
                     <polygon
                        id="polygon10994"
-                       points="475.085,420.267 475.085,292.36 356.315,173.587 210.134,319.765 164.452,274.088 73.092,365.447 73.092,420.267 "
+                       points="164.452,274.088 73.092,365.447 73.092,420.267 475.085,420.267 475.085,292.36 356.315,173.587 210.134,319.765 "
                        style="fill:#2ba9e0;fill-opacity:1" />
                   </g>
                 </g>
@@ -2126,7 +2129,7 @@
              id="flowPara14366"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:1.25;font-family:'Fredoka One';-inkscape-font-specification:'Fredoka One';text-align:center;text-anchor:middle">Fields</flowPara></flowRoot>      </g>
       <g
-         transform="translate(0,-9.3749131)"
+         transform="translate(1142.1682,-824.99981)"
          id="g6338">
         <rect
            ry="0.72509974"
@@ -2325,7 +2328,7 @@
         <g
            inkscape:export-ydpi="85.241302"
            inkscape:export-xdpi="85.241302"
-           style="opacity:0.36700027"
+           style="opacity:0.36700056"
            transform="translate(36.806553,862.11443)"
            id="g960">
           <g
@@ -2866,7 +2869,7 @@
                      id="path1230"
                      style="fill:#000000;fill-opacity:1" />
                   <polygon
-                     points="129.048,244.678 151.889,244.678 151.889,224.692 85.651,224.692 85.651,244.678 107.921,244.678 107.921,365.445 129.048,365.445 "
+                     points="129.048,365.445 129.048,244.678 151.889,244.678 151.889,224.692 85.651,224.692 85.651,244.678 107.921,244.678 107.921,365.445 "
                      id="polygon1232"
                      style="fill:#000000;fill-opacity:1" />
                   <path
@@ -4090,7 +4093,7 @@
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:1.25;font-family:'Fredoka One';-inkscape-font-specification:'Fredoka One';text-align:center;text-anchor:middle"
              id="flowPara1768">Fields</flowPara></flowRoot>      </g>
       <g
-         transform="translate(0,9.8769369e-6)"
+         transform="translate(2284.3364,-1631.2498)"
          id="g6768">
         <rect
            style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#28a9e0;stroke-width:3.35251307;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
@@ -5032,7 +5035,7 @@
                  style="fill:#050505;fill-opacity:1" />
               <polygon
                  id="polygon2234"
-                 points="164.452,274.088 73.092,365.447 73.092,420.267 475.085,420.267 475.085,292.36 356.315,173.587 210.134,319.765 "
+                 points="73.092,365.447 73.092,420.267 475.085,420.267 475.085,292.36 356.315,173.587 210.134,319.765 164.452,274.088 "
                  style="fill:#050505;fill-opacity:1" />
             </g>
             <g
@@ -5051,7 +5054,7 @@
                  id="path2240" />
               <polygon
                  style="fill:#050505;fill-opacity:1"
-                 points="73.092,420.267 475.085,420.267 475.085,292.36 356.315,173.587 210.134,319.765 164.452,274.088 73.092,365.447 "
+                 points="475.085,420.267 475.085,292.36 356.315,173.587 210.134,319.765 164.452,274.088 73.092,365.447 73.092,420.267 "
                  id="polygon2242" />
             </g>
             <g
@@ -5073,7 +5076,7 @@
                    style="fill:#050505;fill-opacity:1" />
                 <polygon
                    id="polygon2250"
-                   points="356.315,173.587 210.134,319.765 164.452,274.088 73.092,365.447 73.092,420.267 475.085,420.267 475.085,292.36 "
+                   points="210.134,319.765 164.452,274.088 73.092,365.447 73.092,420.267 475.085,420.267 475.085,292.36 356.315,173.587 "
                    style="fill:#050505;fill-opacity:1" />
               </g>
             </g>
@@ -5156,7 +5159,7 @@
                    id="path2288" />
                 <polygon
                    style="fill:#050505;fill-opacity:1"
-                   points="164.452,274.088 73.092,365.447 73.092,420.267 475.085,420.267 475.085,292.36 356.315,173.587 210.134,319.765 "
+                   points="73.092,365.447 73.092,420.267 475.085,420.267 475.085,292.36 356.315,173.587 210.134,319.765 164.452,274.088 "
                    id="polygon2290" />
               </g>
             </g>
@@ -5239,7 +5242,7 @@
                    id="path2328" />
                 <polygon
                    style="fill:#050505;fill-opacity:1"
-                   points="73.092,420.267 475.085,420.267 475.085,292.36 356.315,173.587 210.134,319.765 164.452,274.088 73.092,365.447 "
+                   points="475.085,420.267 475.085,292.36 356.315,173.587 210.134,319.765 164.452,274.088 73.092,365.447 73.092,420.267 "
                    id="polygon2330" />
               </g>
             </g>
@@ -5322,7 +5325,7 @@
                    style="fill:#050505;fill-opacity:1" />
                 <polygon
                    id="polygon2370"
-                   points="475.085,292.36 356.315,173.587 210.134,319.765 164.452,274.088 73.092,365.447 73.092,420.267 475.085,420.267 "
+                   points="356.315,173.587 210.134,319.765 164.452,274.088 73.092,365.447 73.092,420.267 475.085,420.267 475.085,292.36 "
                    style="fill:#050505;fill-opacity:1" />
               </g>
             </g>
@@ -5912,7 +5915,7 @@
                      style="fill:#2ba9e0;fill-opacity:1">
                     <polygon
                        id="polygon2580"
-                       points="73.092,420.267 475.085,420.267 475.085,292.36 356.315,173.587 210.134,319.765 164.452,274.088 73.092,365.447 "
+                       points="475.085,420.267 475.085,292.36 356.315,173.587 210.134,319.765 164.452,274.088 73.092,365.447 73.092,420.267 "
                        style="fill:#2ba9e0;fill-opacity:1" />
                   </g>
                 </g>

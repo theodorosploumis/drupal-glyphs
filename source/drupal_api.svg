@@ -75,8 +75,8 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.12374369"
-     inkscape:cx="-164.58875"
+     inkscape:zoom="0.061871845"
+     inkscape:cx="-1526.2743"
      inkscape:cy="2530.4425"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -108,7 +108,10 @@
      id="layer1"
      transform="translate(-303.68969,5022.8094)">
     <g
-       id="g2322">
+       id="g2322"
+       inkscape:export-filename="/home/tpl/Desktop/drupal-glyphs/png/drupal_api.png"
+       inkscape:export-xdpi="28.971489"
+       inkscape:export-ydpi="28.971489">
       <g
          transform="matrix(0.1474609,0,0,0.1474609,295.23446,-2351.4151)"
          id="g8761" />

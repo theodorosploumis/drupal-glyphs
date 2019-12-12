@@ -15,7 +15,7 @@
    id="svg4414"
    version="1.1"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="Drupal_Rendering_flow.svg">
+   sodipodi:docname="drupal_render_flow.svg">
   <defs
      id="defs4416">
     <marker
@@ -210,8 +210,8 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.71055945"
-     inkscape:cx="524.42581"
+     inkscape:zoom="0.35527973"
+     inkscape:cx="293.62176"
      inkscape:cy="356.29128"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -248,7 +248,10 @@
      id="layer1"
      transform="translate(459.3483,-268.92978)">
     <g
-       id="g1434">
+       id="g1434"
+       inkscape:export-filename="/home/tpl/Desktop/drupal-glyphs/png/drupal_render_flow.png"
+       inkscape:export-xdpi="85.241302"
+       inkscape:export-ydpi="85.241302">
       <text
          id="text5459"
          y="525.20251"

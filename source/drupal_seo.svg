@@ -15,7 +15,7 @@
    id="svg4602"
    version="1.1"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="Drupal_SEO.svg">
+   sodipodi:docname="drupal_seo.svg">
   <defs
      id="defs4604">
     <marker
@@ -118,7 +118,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.33175849"
-     inkscape:cx="279.94437"
+     inkscape:cx="-214.39113"
      inkscape:cy="357.12387"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -150,7 +150,10 @@
      id="layer1"
      transform="translate(-49.05283,150.8582)">
     <g
-       id="g1920">
+       id="g1920"
+       inkscape:export-filename="/home/tpl/Desktop/drupal-glyphs/png/drupal_seo.png"
+       inkscape:export-xdpi="88.995049"
+       inkscape:export-ydpi="88.995049">
       <text
          id="text5459"
          y="418.99655"

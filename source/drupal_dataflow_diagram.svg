@@ -15,90 +15,72 @@
    id="svg4602"
    version="1.1"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="Drupal_Data_Flow_Diagram.svg">
+   sodipodi:docname="drupal_dataflow_diagram.svg">
   <defs
-     id="defs4604"><marker
-   inkscape:stockid="TriangleOutL"
-   orient="auto"
-   refY="0"
-   refX="0"
-   id="marker7466"
-   style="overflow:visible"
-   inkscape:isstock="true">
-  <path
-     id="path7468"
-     d="M 5.77,0 -2.88,5 V -5 Z"
-     style="fill:#28a9e0;fill-opacity:1;fill-rule:evenodd;stroke:#28a9e0;stroke-width:1.00000003pt;stroke-opacity:1"
-     transform="scale(0.8)"
-     inkscape:connector-curvature="0" />
-</marker>
-<marker
-   inkscape:isstock="true"
-   style="overflow:visible"
-   id="marker7370"
-   refX="0"
-   refY="0"
-   orient="auto"
-   inkscape:stockid="TriangleOutL"
-   inkscape:collect="always">
-  <path
-     transform="scale(0.8)"
-     style="fill:#28a9e0;fill-opacity:1;fill-rule:evenodd;stroke:#28a9e0;stroke-width:1.00000003pt;stroke-opacity:1"
-     d="M 5.77,0 -2.88,5 V -5 Z"
-     id="path7372"
-     inkscape:connector-curvature="0" />
-</marker>
-<marker
-   inkscape:stockid="TriangleOutL"
-   orient="auto"
-   refY="0"
-   refX="0"
-   id="TriangleOutL"
-   style="overflow:visible"
-   inkscape:isstock="true"
-   inkscape:collect="always">
-  <path
-     id="path7106"
-     d="M 5.77,0 -2.88,5 V -5 Z"
-     style="fill:#28a9e0;fill-opacity:1;fill-rule:evenodd;stroke:#28a9e0;stroke-width:1.00000003pt;stroke-opacity:1"
-     transform="scale(0.8)"
-     inkscape:connector-curvature="0" />
-</marker>
-<marker
-   inkscape:stockid="Arrow1Mend"
-   orient="auto"
-   refY="0"
-   refX="0"
-   id="Arrow1Mend"
-   style="overflow:visible"
-   inkscape:isstock="true">
-  <path
-     id="path6973"
-     d="M 0,0 5,-5 -12.5,0 5,5 Z"
-     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
-     transform="matrix(-0.4,0,0,-0.4,-4,0)"
-     inkscape:connector-curvature="0" />
-</marker>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-	
-	
-</defs>
+     id="defs4604">
+    <marker
+       inkscape:stockid="TriangleOutL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker7466"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path7468"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#28a9e0;fill-opacity:1;fill-rule:evenodd;stroke:#28a9e0;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.8)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker7370"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutL"
+       inkscape:collect="always">
+      <path
+         transform="scale(0.8)"
+         style="fill:#28a9e0;fill-opacity:1;fill-rule:evenodd;stroke:#28a9e0;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path7372"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutL"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path7106"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#28a9e0;fill-opacity:1;fill-rule:evenodd;stroke:#28a9e0;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.8)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path6973"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -107,7 +89,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.24748737"
-     inkscape:cx="864.66742"
+     inkscape:cx="202.00734"
      inkscape:cy="519.59823"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -129,7 +111,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -139,7 +121,10 @@
      id="layer1"
      transform="translate(189.27379,307.31739)">
     <g
-       id="g2607">
+       id="g2607"
+       inkscape:export-filename="/home/tpl/Desktop/drupal-glyphs/png/drupal_dataflow_diagram.png"
+       inkscape:export-xdpi="65.339287"
+       inkscape:export-ydpi="65.339287">
       <text
          id="text5459"
          y="418.99655"
