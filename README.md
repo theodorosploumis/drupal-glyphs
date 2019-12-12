@@ -4,6 +4,18 @@
 > A free to use collection of svg glyphs, illustrations and icons related to **Drupal CMS**. Suitable for presentations, proposals, education materials etc.
 
 ## Contents
+- [Drupal API](source/drupal_api.svg)
+- [Drupal architecture](source/drupal_architecture.svg)
+- [Drupal concepts](source/drupal_concepts.svg)
+- [Drupal dataflow diagram](source/drupal_dataflow_diagram.svg)
+- [Drupal development roles](source/drupal_development_roles.svg)
+- [Drupal entities explained](source/drupal_entities_explained.svg)
+- [Drupal page elements](source/drupal_page_elements.svg)
+- [Drupal render flow](source/drupal_render_flow.svg)
+- [Drupal SEO](source/drupal_seo.svg)
+- [Drupal software layers](source/drupal_software_layers.svg)
+
+## Images
 ![Drupal API](png/drupal_api.png)
 ![Drupal architecture](png/drupal_architecture.png)
 ![Drupal concepts](png/drupal_concepts.png)
@@ -16,7 +28,7 @@
 ![Drupal software layers](png/drupal_software_layers.png)
 
 ## Contribute
-Feel free to join and propose changes to any of these images by opening an issue or a pull request. The svg images can be found at folder [source](source).
+Feel free to join and propose changes to any of these images by opening an issue or a pull request. You should provide and changes to the original svg images under folder [source](source).
 
 ## LICENSE
 - [GPL V3](LICENSE)
