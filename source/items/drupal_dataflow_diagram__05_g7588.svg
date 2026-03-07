@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg:svg xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg" width="531.40771mm" height="388.85925mm" viewBox="0 0 1882.9407 1377.8477" id="svg4602" version="1.1" inkscape:version="0.92.3 (2405546, 2018-03-11)" sodipodi:docname="drupal_dataflow_diagram.svg"><svg:defs id="defs4604">
+    <svg:marker inkscape:stockid="TriangleOutL" orient="auto" refY="0" refX="0" id="marker7466" style="overflow:visible" inkscape:isstock="true">
+      <svg:path id="path7468" d="M 5.77,0 -2.88,5 V -5 Z" style="fill:#28a9e0;fill-opacity:1;fill-rule:evenodd;stroke:#28a9e0;stroke-width:1.00000003pt;stroke-opacity:1" transform="scale(0.8)" inkscape:connector-curvature="0" />
+    </svg:marker>
+    <svg:marker inkscape:isstock="true" style="overflow:visible" id="marker7370" refX="0" refY="0" orient="auto" inkscape:stockid="TriangleOutL" inkscape:collect="always">
+      <svg:path transform="scale(0.8)" style="fill:#28a9e0;fill-opacity:1;fill-rule:evenodd;stroke:#28a9e0;stroke-width:1.00000003pt;stroke-opacity:1" d="M 5.77,0 -2.88,5 V -5 Z" id="path7372" inkscape:connector-curvature="0" />
+    </svg:marker>
+    <svg:marker inkscape:stockid="TriangleOutL" orient="auto" refY="0" refX="0" id="TriangleOutL" style="overflow:visible" inkscape:isstock="true" inkscape:collect="always">
+      <svg:path id="path7106" d="M 5.77,0 -2.88,5 V -5 Z" style="fill:#28a9e0;fill-opacity:1;fill-rule:evenodd;stroke:#28a9e0;stroke-width:1.00000003pt;stroke-opacity:1" transform="scale(0.8)" inkscape:connector-curvature="0" />
+    </svg:marker>
+    <svg:marker inkscape:stockid="Arrow1Mend" orient="auto" refY="0" refX="0" id="Arrow1Mend" style="overflow:visible" inkscape:isstock="true">
+      <svg:path id="path6973" d="M 0,0 5,-5 -12.5,0 5,5 Z" style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1" transform="matrix(-0.4,0,0,-0.4,-4,0)" inkscape:connector-curvature="0" />
+    </svg:marker>
+  </svg:defs>
+  <svg:metadata id="metadata4607">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </svg:metadata>
+  <svg:g inkscape:label="Layer 1" inkscape:groupmode="layer" id="layer1" transform="translate(189.27379,307.31739)"><svg:g id="g2607" inkscape:export-filename="/home/tpl/Desktop/drupal-glyphs/png/drupal_dataflow_diagram.png" inkscape:export-xdpi="65.339287" inkscape:export-ydpi="65.339287"><svg:g transform="translate(256.21424,16.877707)" id="g7588">
+        <svg:path style="fill:#d8f3ff;fill-opacity:1" d="m 1215.8233,-45.102515 c 0.374,-1.941905 4.5742,-2.069063 68.3493,-2.069063 63.7751,0 67.9753,0.127128 68.3492,2.069063 0.376,1.951379 -3.5116,2.069047 -68.3492,2.069047 -64.8377,0 -68.7251,-0.117593 -68.3493,-2.069047 z m 8.0377,-8.867379 c -1.5543,-3.610652 -15.3566,-69.605806 -15.3566,-73.426556 0,-1.80075 0.9345,-3.54548 2.2868,-4.26922 1.5042,-0.80497 26.7685,-1.2239 73.8104,-1.2239 77.3738,0 75.2393,-0.17474 75.2393,6.15935 0,1.34392 -3.1923,17.72573 -7.0939,36.404067 -3.9017,18.678299 -7.094,34.262088 -7.094,34.630592 0,0.368519 -0.836,1.506084 -1.8579,2.527948 -1.6389,1.638917 -8.7494,1.857925 -60.3234,1.857925 h -58.4657 z m 64.8307,-36.723339 c 0.6896,-6.01435 -3.9414,-8.68603 -8.2685,-4.77011 -4.3347,3.92278 -1.7094,9.03539 4.3348,8.44185 2.9124,-0.28599 3.6214,-0.94781 3.9337,-3.67174 z m -50.6315,-48.105177 c 3.8151,-5.35756 11.5651,-10.13745 21.1649,-13.05328 l 8.6302,-2.62132 5.0368,2.5155 c 6.5571,3.27477 14.8703,3.27805 21.6243,0.009 6.2634,-3.03208 10.5219,-2.56896 20.8135,2.2636 7.7381,3.63357 14.2415,8.52762 16.2036,12.19407 1.1655,2.17776 -0.092,2.23713 -47.3998,2.23713 h -48.5971 l 2.5236,-3.5442 z m 36.0626,-21.47403 c -5.3566,-2.9449 -11.3575,-10.05879 -13.6471,-16.17831 -1.32,-3.52803 -3.7108,-7.44565 -5.3129,-8.70582 -3.2755,-2.57654 -3.7695,-6.7476 -1.2713,-10.73299 1.3007,-2.07479 1.3921,-4.09183 0.44,-9.71251 -2.359,-13.927 3.2145,-22.98662 17.0268,-27.67697 15.441,-5.24336 26.1618,-4.50156 29.4763,2.03954 0.8845,1.74537 3.3314,4.91026 5.4376,7.03308 4.8206,4.85865 6.5687,11.11504 5.3913,19.29605 -0.8068,5.60633 -0.6177,6.56584 1.764,8.94745 3.584,3.58394 3.3592,7.09203 -0.6969,10.88107 -1.8506,1.72866 -4.538,5.79944 -5.9721,9.04614 -3.0986,7.01462 -8.716,13.2456 -13.976,15.50266 -4.5241,1.94125 -15.3282,2.09214 -18.6597,0.26061 z" id="path4880" inkscape:connector-curvature="0" />
+        <svg:flowRoot transform="translate(806.48023,-584.55267)" style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#8a8a8a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" id="flowRoot5463" xml:space="preserve"><svg:flowRegion id="flowRegion5465"><svg:rect style="fill:#8a8a8a;fill-opacity:1" y="365.45847" x="112.12693" height="55.55838" width="462.64984" id="rect5467" /></svg:flowRegion><svg:flowPara style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:1.25;font-family:'Fredoka One';-inkscape-font-specification:'Fredoka One';text-align:center;text-anchor:middle;fill:#8a8a8a;fill-opacity:1" id="flowPara5469">Typical data submission flow</svg:flowPara></svg:flowRoot>      </svg:g>
+      </svg:g></svg:g></svg:svg>

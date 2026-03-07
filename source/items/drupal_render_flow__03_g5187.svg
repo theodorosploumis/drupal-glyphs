@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg:svg xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg" width="311.38089mm" height="212.87892mm" viewBox="0 0 1103.3181 754.29539" id="svg4414" version="1.1" inkscape:version="0.92.3 (2405546, 2018-03-11)" sodipodi:docname="drupal_render_flow.svg"><svg:defs id="defs4416">
+    <svg:marker inkscape:isstock="true" style="overflow:visible" id="marker8168" refX="0" refY="0" orient="auto" inkscape:stockid="TriangleOutL">
+      <svg:path transform="scale(0.8,0.8)" style="fill:#28a9e0;fill-opacity:1;fill-rule:evenodd;stroke:#28a9e0;stroke-width:1pt;stroke-opacity:1" d="m 5.77,0 -8.65,5 0,-10 8.65,5 z" id="path8170" inkscape:connector-curvature="0" />
+    </svg:marker>
+    <svg:marker inkscape:isstock="true" style="overflow:visible" id="marker8080" refX="0" refY="0" orient="auto" inkscape:stockid="TriangleOutL">
+      <svg:path inkscape:connector-curvature="0" transform="scale(0.8,0.8)" style="fill:#28a9e0;fill-opacity:1;fill-rule:evenodd;stroke:#28a9e0;stroke-width:1pt;stroke-opacity:1" d="m 5.77,0 -8.65,5 0,-10 8.65,5 z" id="path8082" />
+    </svg:marker>
+    <svg:marker inkscape:stockid="TriangleOutL" orient="auto" refY="0" refX="0" id="marker7502" style="overflow:visible" inkscape:isstock="true">
+      <svg:path inkscape:connector-curvature="0" id="path7504" d="m 5.77,0 -8.65,5 0,-10 8.65,5 z" style="fill:#28a9e0;fill-opacity:1;fill-rule:evenodd;stroke:#28a9e0;stroke-width:1pt;stroke-opacity:1" transform="scale(0.8,0.8)" />
+    </svg:marker>
+    <svg:marker inkscape:isstock="true" style="overflow:visible" id="marker6572" refX="0" refY="0" orient="auto" inkscape:stockid="TriangleOutL">
+      <svg:path transform="scale(0.8,0.8)" style="fill:#28a9e0;fill-opacity:1;fill-rule:evenodd;stroke:#28a9e0;stroke-width:1pt;stroke-opacity:1" d="m 5.77,0 -8.65,5 0,-10 8.65,5 z" id="path6574" inkscape:connector-curvature="0" />
+    </svg:marker>
+    <svg:marker inkscape:isstock="true" style="overflow:visible" id="marker6360" refX="0" refY="0" orient="auto" inkscape:stockid="TriangleOutL">
+      <svg:path transform="scale(0.8,0.8)" style="fill:#28a9e0;fill-opacity:1;fill-rule:evenodd;stroke:#28a9e0;stroke-width:1pt;stroke-opacity:1" d="m 5.77,0 -8.65,5 0,-10 8.65,5 z" id="path6362" inkscape:connector-curvature="0" />
+    </svg:marker>
+    <svg:marker inkscape:stockid="TriangleOutL" orient="auto" refY="0" refX="0" id="marker5963" style="overflow:visible" inkscape:isstock="true" inkscape:collect="always">
+      <svg:path inkscape:connector-curvature="0" id="path5965" d="m 5.77,0 -8.65,5 0,-10 8.65,5 z" style="fill:#28a9e0;fill-opacity:1;fill-rule:evenodd;stroke:#28a9e0;stroke-width:1pt;stroke-opacity:1" transform="scale(0.8,0.8)" />
+    </svg:marker>
+    <svg:marker inkscape:stockid="TriangleOutL" orient="auto" refY="0" refX="0" id="marker5581" style="overflow:visible" inkscape:isstock="true">
+      <svg:path inkscape:connector-curvature="0" id="path5583" d="m 5.77,0 -8.65,5 0,-10 8.65,5 z" style="fill:#28a9e0;fill-opacity:1;fill-rule:evenodd;stroke:#28a9e0;stroke-width:1pt;stroke-opacity:1" transform="scale(0.8,0.8)" />
+    </svg:marker>
+    <svg:marker inkscape:stockid="TriangleOutL" orient="auto" refY="0" refX="0" id="marker4433" style="overflow:visible" inkscape:isstock="true" inkscape:collect="always">
+      <svg:path id="path4435" d="m 5.77,0 -8.65,5 0,-10 8.65,5 z" style="fill:#28a9e0;fill-opacity:1;fill-rule:evenodd;stroke:#28a9e0;stroke-width:1pt;stroke-opacity:1" transform="scale(0.8,0.8)" inkscape:connector-curvature="0" />
+    </svg:marker>
+    <svg:marker inkscape:isstock="true" style="overflow:visible" id="marker7466" refX="0" refY="0" orient="auto" inkscape:stockid="TriangleOutL">
+      <svg:path inkscape:connector-curvature="0" transform="scale(0.8,0.8)" style="fill:#28a9e0;fill-opacity:1;fill-rule:evenodd;stroke:#28a9e0;stroke-width:1pt;stroke-opacity:1" d="m 5.77,0 -8.65,5 0,-10 8.65,5 z" id="path7468" />
+    </svg:marker>
+    <svg:marker inkscape:stockid="TriangleOutL" orient="auto" refY="0" refX="0" id="marker7370" style="overflow:visible" inkscape:isstock="true" inkscape:collect="always">
+      <svg:path inkscape:connector-curvature="0" id="path7372" d="m 5.77,0 -8.65,5 0,-10 8.65,5 z" style="fill:#28a9e0;fill-opacity:1;fill-rule:evenodd;stroke:#28a9e0;stroke-width:1pt;stroke-opacity:1" transform="scale(0.8,0.8)" />
+    </svg:marker>
+    <svg:marker inkscape:isstock="true" style="overflow:visible" id="TriangleOutL" refX="0" refY="0" orient="auto" inkscape:stockid="TriangleOutL" inkscape:collect="always">
+      <svg:path inkscape:connector-curvature="0" transform="scale(0.8,0.8)" style="fill:#28a9e0;fill-opacity:1;fill-rule:evenodd;stroke:#28a9e0;stroke-width:1pt;stroke-opacity:1" d="m 5.77,0 -8.65,5 0,-10 8.65,5 z" id="path7106" />
+    </svg:marker>
+    <svg:marker inkscape:isstock="true" style="overflow:visible" id="Arrow1Mend" refX="0" refY="0" orient="auto" inkscape:stockid="Arrow1Mend">
+      <svg:path inkscape:connector-curvature="0" transform="matrix(-0.4,0,0,-0.4,-4,0)" style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1" d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z" id="path6973" />
+    </svg:marker>
+  </svg:defs>
+  <svg:metadata id="metadata4419">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </svg:metadata>
+  <svg:g inkscape:label="Layer 1" inkscape:groupmode="layer" id="layer1" transform="translate(459.3483,-268.92978)"><svg:g id="g1434" inkscape:export-filename="/home/tpl/Desktop/drupal-glyphs/png/drupal_render_flow.png" inkscape:export-xdpi="85.241302" inkscape:export-ydpi="85.241302"><svg:g style="opacity:0.1" transform="matrix(2.0528309,0,0,2.0528309,217.40491,86.270498)" id="g5187">
+        <svg:g id="g5189">
+          <svg:path id="path5191" d="m -69.7,312.5 c -29.1,0 -52.7,23.6 -52.7,52.7 0,29.1 23.6,52.7 52.7,52.7 29.1,0 52.7,-23.6 52.7,-52.7 0,-29.1 -23.6,-52.7 -52.7,-52.7 z" inkscape:connector-curvature="0" style="fill:#2ba9e0" />
+        </svg:g>
+        <svg:g id="g5193">
+          <svg:path id="path5195" d="m -4.1,302.4 c 15.6,16.3 25.2,38.4 25.2,62.8 0,30.9 -15.4,58.1 -38.9,74.5 43.5,-13.4 79.5,-46.1 95.6,-85.7 22.3,-54.8 1.5,-96 -33.3,-133.4 1.1,4.8 1.7,9.9 1.7,15 -0.1,31.8 -21.3,58.5 -50.3,66.8 z" inkscape:connector-curvature="0" style="fill:#2ba9e0" />
+        </svg:g>
+        <svg:g id="g5197">
+          <svg:path id="path5199" d="m -63.7,235.7 c 0,22.3 18.1,40.3 40.3,40.3 22.2,0 40.4,-18.1 40.4,-40.3 0,-22.3 -18.1,-40.3 -40.3,-40.3 -22.2,0 -40.4,18 -40.4,40.3 z" inkscape:connector-curvature="0" style="fill:#2ba9e0" />
+        </svg:g>
+        <svg:g id="g5201">
+          <svg:path id="path5203" d="m -139.2,423.7 c -13.3,-15.8 -21.3,-36.2 -21.3,-58.5 0,-46.5 34.9,-84.8 80,-90.1 -7.7,-11.2 -12.3,-24.8 -12.3,-39.4 0,-38.4 31.1,-69.4 69.5,-69.4 3.2,0 6.3,0.2 9.3,0.6 -22.7,-19.6 -45.4,-39.5 -63.3,-61.2 9.1,95.2 -86.7,60.6 -122.2,148.4 -23.7,58.8 -2.3,131.5 60.3,169.6 z" inkscape:connector-curvature="0" style="fill:#2ba9e0" />
+        </svg:g>
+      </svg:g>
+      </svg:g></svg:g></svg:svg>

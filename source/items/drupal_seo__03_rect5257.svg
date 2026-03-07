@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg:svg xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg" width="266.28671mm" height="285.3775mm" viewBox="0 0 943.53556 1011.18" id="svg4602" version="1.1" inkscape:version="0.92.3 (2405546, 2018-03-11)" sodipodi:docname="drupal_seo.svg"><svg:defs id="defs4604">
+    <svg:marker inkscape:isstock="true" style="overflow:visible" id="marker7973" refX="0" refY="0" orient="auto" inkscape:stockid="TriangleOutM">
+      <svg:path transform="scale(0.4,0.4)" style="fill:#28a9e0;fill-opacity:1;fill-rule:evenodd;stroke:#28a9e0;stroke-width:1pt;stroke-opacity:1" d="m 5.77,0 -8.65,5 0,-10 8.65,5 z" id="path7975" inkscape:connector-curvature="0" />
+    </svg:marker>
+    <svg:marker inkscape:stockid="TriangleOutL" orient="auto" refY="0" refX="0" id="TriangleOutL" style="overflow:visible" inkscape:isstock="true">
+      <svg:path id="path5254" d="m 5.77,0 -8.65,5 0,-10 8.65,5 z" style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt" transform="scale(0.8,0.8)" inkscape:connector-curvature="0" />
+    </svg:marker>
+    <svg:marker inkscape:stockid="TriangleOutM" orient="auto" refY="0" refX="0" id="TriangleOutM" style="overflow:visible" inkscape:isstock="true" inkscape:collect="always">
+      <svg:path id="path5257" d="m 5.77,0 -8.65,5 0,-10 8.65,5 z" style="fill:#28a9e0;fill-opacity:1;fill-rule:evenodd;stroke:#28a9e0;stroke-width:1pt;stroke-opacity:1" transform="scale(0.4,0.4)" inkscape:connector-curvature="0" />
+    </svg:marker>
+    <svg:marker inkscape:isstock="true" style="overflow:visible" id="marker6167" refX="0" refY="0" orient="auto" inkscape:stockid="TriangleOutL">
+      <svg:path transform="scale(0.8,0.8)" style="fill:#28a9e0;fill-opacity:1;fill-rule:evenodd;stroke:#28a9e0;stroke-width:1pt;stroke-opacity:1" d="m 5.77,0 -8.65,5 0,-10 8.65,5 z" id="path6169" inkscape:connector-curvature="0" />
+    </svg:marker>
+    <svg:marker inkscape:stockid="Arrow2Lend" orient="auto" refY="0" refX="0" id="Arrow2Lend" style="overflow:visible" inkscape:isstock="true">
+      <svg:path id="path5133" style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1" d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z" transform="matrix(-1.1,0,0,-1.1,-1.1,0)" inkscape:connector-curvature="0" />
+    </svg:marker>
+    <svg:marker inkscape:stockid="Arrow1Mend" orient="auto" refY="0" refX="0" id="Arrow1Mend" style="overflow:visible" inkscape:isstock="true">
+      <svg:path id="path5121" d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z" style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1" transform="matrix(-0.4,0,0,-0.4,-4,0)" inkscape:connector-curvature="0" />
+    </svg:marker>
+  </svg:defs>
+  <svg:metadata id="metadata4607">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </svg:metadata>
+  <svg:g inkscape:label="Layer 1" inkscape:groupmode="layer" id="layer1" transform="translate(-49.05283,150.8582)"><svg:g id="g1920" inkscape:export-filename="/home/tpl/Desktop/drupal-glyphs/png/drupal_seo.png" inkscape:export-xdpi="88.995049" inkscape:export-ydpi="88.995049"><svg:rect ry="20.973873" rx="32.136379" y="-149.35826" x="50.55283" height="1008.1802" width="940.53558" id="rect5257" style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#f9f7f7;fill-opacity:1;fill-rule:nonzero;stroke:#28a9e0;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      </svg:g></svg:g></svg:svg>

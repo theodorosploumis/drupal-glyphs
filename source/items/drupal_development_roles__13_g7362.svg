@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg:svg xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg" width="294.47675mm" height="331.35895mm" viewBox="0 0 1043.4215 1174.1064" id="svg4602" version="1.1" inkscape:version="0.92.3 (2405546, 2018-03-11)" sodipodi:docname="drupal_development_roles.svg"><svg:defs id="defs4604">
+    <svg:marker inkscape:stockid="Arrow2Mstart" orient="auto" refY="0" refX="0" id="Arrow2Mstart" style="overflow:visible" inkscape:isstock="true" inkscape:collect="always">
+      <svg:path id="path7244" style="fill:#28a9e0;fill-opacity:1;fill-rule:evenodd;stroke:#28a9e0;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1" d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z" transform="scale(0.6,0.6)" inkscape:connector-curvature="0" />
+    </svg:marker>
+  </svg:defs>
+  <svg:metadata id="metadata4607">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </svg:metadata>
+  <svg:g inkscape:label="Layer 1" inkscape:groupmode="layer" id="layer1" transform="translate(6.2185903,274.74413)"><svg:g id="g2187" inkscape:export-filename="/home/tpl/Desktop/drupal-glyphs/png/drupal_development_roles.png" inkscape:export-xdpi="76.680412" inkscape:export-ydpi="76.680412"><svg:g transform="translate(-149.49458,-455.92103)" id="g7362">
+        <svg:rect style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#28a9e0;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" id="rect7342" width="115.7143" height="87.142822" x="223.85126" y="463.87" rx="8.5714464" ry="10.361049" />
+        <svg:g id="g5519" transform="matrix(0.15435801,0,0,0.15435801,249.29323,475.02622)" style="fill:#28a9e0;fill-opacity:1">
+          <svg:g id="XMLID_4_" style="fill:#28a9e0;fill-opacity:1">
+            <svg:path d="M 300,240.715 V 155 L 180,240.715 V 155 H 150 V 85 h -30 v 70 H 90 V 35 H 30 V 155 H 0 V 385 H 420 V 155 Z M 160,335 h -40 v -40 h 40 z m 70,0 h -40 v -40 h 40 z m 70,0 h -40 v -40 h 40 z" id="XMLID_845_" inkscape:connector-curvature="0" style="fill:#28a9e0;fill-opacity:1" />
+          </svg:g>
+          <svg:g id="g5483" style="fill:#28a9e0;fill-opacity:1" />
+          <svg:g id="g5485" style="fill:#28a9e0;fill-opacity:1" />
+          <svg:g id="g5487" style="fill:#28a9e0;fill-opacity:1" />
+          <svg:g id="g5489" style="fill:#28a9e0;fill-opacity:1" />
+          <svg:g id="g5491" style="fill:#28a9e0;fill-opacity:1" />
+          <svg:g id="g5493" style="fill:#28a9e0;fill-opacity:1" />
+          <svg:g id="g5495" style="fill:#28a9e0;fill-opacity:1" />
+          <svg:g id="g5497" style="fill:#28a9e0;fill-opacity:1" />
+          <svg:g id="g5499" style="fill:#28a9e0;fill-opacity:1" />
+          <svg:g id="g5501" style="fill:#28a9e0;fill-opacity:1" />
+          <svg:g id="g5503" style="fill:#28a9e0;fill-opacity:1" />
+          <svg:g id="g5505" style="fill:#28a9e0;fill-opacity:1" />
+          <svg:g id="g5507" style="fill:#28a9e0;fill-opacity:1" />
+          <svg:g id="g5509" style="fill:#28a9e0;fill-opacity:1" />
+          <svg:g id="g5511" style="fill:#28a9e0;fill-opacity:1" />
+        </svg:g>
+      </svg:g>
+      </svg:g></svg:g></svg:svg>

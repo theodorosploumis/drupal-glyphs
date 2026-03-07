@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg:svg xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg" width="266.28671mm" height="285.3775mm" viewBox="0 0 943.53556 1011.18" id="svg4602" version="1.1" inkscape:version="0.92.3 (2405546, 2018-03-11)" sodipodi:docname="drupal_seo.svg"><svg:defs id="defs4604">
+    <svg:marker inkscape:isstock="true" style="overflow:visible" id="marker7973" refX="0" refY="0" orient="auto" inkscape:stockid="TriangleOutM">
+      <svg:path transform="scale(0.4,0.4)" style="fill:#28a9e0;fill-opacity:1;fill-rule:evenodd;stroke:#28a9e0;stroke-width:1pt;stroke-opacity:1" d="m 5.77,0 -8.65,5 0,-10 8.65,5 z" id="path7975" inkscape:connector-curvature="0" />
+    </svg:marker>
+    <svg:marker inkscape:stockid="TriangleOutL" orient="auto" refY="0" refX="0" id="TriangleOutL" style="overflow:visible" inkscape:isstock="true">
+      <svg:path id="path5254" d="m 5.77,0 -8.65,5 0,-10 8.65,5 z" style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt" transform="scale(0.8,0.8)" inkscape:connector-curvature="0" />
+    </svg:marker>
+    <svg:marker inkscape:stockid="TriangleOutM" orient="auto" refY="0" refX="0" id="TriangleOutM" style="overflow:visible" inkscape:isstock="true" inkscape:collect="always">
+      <svg:path id="path5257" d="m 5.77,0 -8.65,5 0,-10 8.65,5 z" style="fill:#28a9e0;fill-opacity:1;fill-rule:evenodd;stroke:#28a9e0;stroke-width:1pt;stroke-opacity:1" transform="scale(0.4,0.4)" inkscape:connector-curvature="0" />
+    </svg:marker>
+    <svg:marker inkscape:isstock="true" style="overflow:visible" id="marker6167" refX="0" refY="0" orient="auto" inkscape:stockid="TriangleOutL">
+      <svg:path transform="scale(0.8,0.8)" style="fill:#28a9e0;fill-opacity:1;fill-rule:evenodd;stroke:#28a9e0;stroke-width:1pt;stroke-opacity:1" d="m 5.77,0 -8.65,5 0,-10 8.65,5 z" id="path6169" inkscape:connector-curvature="0" />
+    </svg:marker>
+    <svg:marker inkscape:stockid="Arrow2Lend" orient="auto" refY="0" refX="0" id="Arrow2Lend" style="overflow:visible" inkscape:isstock="true">
+      <svg:path id="path5133" style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1" d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z" transform="matrix(-1.1,0,0,-1.1,-1.1,0)" inkscape:connector-curvature="0" />
+    </svg:marker>
+    <svg:marker inkscape:stockid="Arrow1Mend" orient="auto" refY="0" refX="0" id="Arrow1Mend" style="overflow:visible" inkscape:isstock="true">
+      <svg:path id="path5121" d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z" style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1" transform="matrix(-0.4,0,0,-0.4,-4,0)" inkscape:connector-curvature="0" />
+    </svg:marker>
+  </svg:defs>
+  <svg:metadata id="metadata4607">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </svg:metadata>
+  <svg:g inkscape:label="Layer 1" inkscape:groupmode="layer" id="layer1" transform="translate(-49.05283,150.8582)"><svg:g id="g1920" inkscape:export-filename="/home/tpl/Desktop/drupal-glyphs/png/drupal_seo.png" inkscape:export-xdpi="88.995049" inkscape:export-ydpi="88.995049"><svg:g style="opacity:0.03999999" transform="matrix(1.5146474,0,0,1.5146474,552.26079,-176.57723)" id="g5151">
+        <svg:g id="g5153">
+          <svg:g id="g5155">
+            <svg:path style="fill:#2ba9e0" inkscape:connector-curvature="0" d="m -64.7,601.6 c 0,12.6 -5.5,22.8 -18.2,22.8 -12.7,0 -18.2,-10.2 -18.2,-22.8 v -43 h -23.2 v 43 c 0,24.9 16.1,45 41.3,45 25.1,0 41.5,-20.1 41.5,-45 v -43.1 h -23.2 z" id="path5157" />
+          </svg:g>
+          <svg:g id="g5159">
+            <svg:rect style="fill:#2ba9e0" x="168.10001" y="532.29999" width="23.1" height="112.1" id="rect5161" />
+          </svg:g>
+          <svg:g id="g5163">
+            <svg:polygon style="fill:#2ba9e0" points="219.7,554.2 219.7,536.4 226.3,536.4 226.3,532.4 208.3,532.4 208.3,536.4 214.9,536.4 214.9,554.2 " id="polygon5165" />
+          </svg:g>
+          <svg:g id="g5167">
+            <svg:polygon style="fill:#2ba9e0" points="235.7,532.4 228.9,532.4 228.9,554.2 233.4,554.2 233.4,538.9 233.4,538.9 238.8,554.2 242.6,554.2 247.9,538.8 248,538.8 248,554.2 252.5,554.2 252.5,532.4 245.7,532.4 240.9,547.4 240.8,547.4 " id="polygon5169" />
+          </svg:g>
+          <svg:g id="g5171">
+            <svg:path style="fill:#2ba9e0" inkscape:connector-curvature="0" d="m -176.2,573.7 c -0.3,0.5 -0.3,0.8 -1.2,0.8 -0.7,0 -0.8,-0.8 -0.8,-0.8 l -2.5,-15 h -20.7 v 85.6 h 23.2 V 598 c 0,-3.8 10.3,-21.9 30.3,-17.3 10.1,2.4 14.4,6.6 14.4,6.6 0,0 0,-16.5 0,-26.1 -3.7,-1.9 -6.3,-2.9 -9.7,-3.6 -19.9,-4.5 -32.5,15.1 -33,16.1 z" id="path5173" />
+          </svg:g>
+          <svg:g id="g5175">
+            <svg:path style="fill:#2ba9e0" inkscape:connector-curvature="0" d="m 12.5,556.9 c -25.3,0 -45.8,20.3 -45.8,45.3 0,0 0,62 0,70.3 H -10 v -30.8 -11.5 c 0,0 0,-0.9 0.9,-0.9 0.7,0 0.9,0.5 1.1,0.9 1.8,4.3 11.5,20.9 32.9,15.7 19.2,-5.4 33.3,-22.9 33.3,-43.6 0.1,-25.1 -20.4,-45.4 -45.7,-45.4 z m 0,68.3 c -12.8,0 -23.2,-10.3 -23.2,-22.9 0,-12.7 10.4,-22.9 23.2,-22.9 12.8,0 23.2,10.3 23.2,22.9 0,12.6 -10.4,22.9 -23.2,22.9 z" id="path5177" />
+          </svg:g>
+          <svg:g id="g5179">
+            <svg:path style="fill:#2ba9e0" inkscape:connector-curvature="0" d="m 112.9,556.9 c -25.3,0 -45.8,20.3 -45.8,45.3 0,20.8 14.1,38.3 33.4,43.6 21.5,5.2 31.2,-11.3 32.9,-15.7 0.2,-0.4 0.4,-0.9 1.1,-0.9 0.8,0 0.9,0.9 0.9,0.9 v 14.2 h 23.3 v -42.1 c 0,-25 -20.5,-45.3 -45.8,-45.3 z m 0,68.3 c -12.8,0 -23.2,-10.3 -23.2,-22.9 0,-12.7 10.4,-22.9 23.2,-22.9 12.8,0 23.2,10.3 23.2,22.9 0,12.6 -10.4,22.9 -23.2,22.9 z" id="path5181" />
+          </svg:g>
+          <svg:g id="g5183">
+            <svg:path style="fill:#2ba9e0" inkscape:connector-curvature="0" d="m -272.2,532.3 h -28.3 v 112 h 26.4 c 34.7,0 62.3,-6.7 62.3,-56 0,-49.8 -26.1,-56 -60.4,-56 z m 4.6,92.7 -9.6,-0.2 v -73.1 h 9.3 c 21.4,0 32.6,3 32.6,36.6 0.1,35 -12.6,36.7 -32.3,36.7 z" id="path5185" />
+          </svg:g>
+        </svg:g>
+        <svg:g id="g5187">
+          <svg:g id="g5189">
+            <svg:path style="fill:#2ba9e0" inkscape:connector-curvature="0" d="m -69.7,312.5 c -29.1,0 -52.7,23.6 -52.7,52.7 0,29.1 23.6,52.7 52.7,52.7 29.1,0 52.7,-23.6 52.7,-52.7 0,-29.1 -23.6,-52.7 -52.7,-52.7 z" id="path5191" />
+          </svg:g>
+          <svg:g id="g5193">
+            <svg:path style="fill:#2ba9e0" inkscape:connector-curvature="0" d="m -4.1,302.4 c 15.6,16.3 25.2,38.4 25.2,62.8 0,30.9 -15.4,58.1 -38.9,74.5 43.5,-13.4 79.5,-46.1 95.6,-85.7 22.3,-54.8 1.5,-96 -33.3,-133.4 1.1,4.8 1.7,9.9 1.7,15 -0.1,31.8 -21.3,58.5 -50.3,66.8 z" id="path5195" />
+          </svg:g>
+          <svg:g id="g5197">
+            <svg:path style="fill:#2ba9e0" inkscape:connector-curvature="0" d="m -63.7,235.7 c 0,22.3 18.1,40.3 40.3,40.3 22.2,0 40.4,-18.1 40.4,-40.3 0,-22.3 -18.1,-40.3 -40.3,-40.3 -22.2,0 -40.4,18 -40.4,40.3 z" id="path5199" />
+          </svg:g>
+          <svg:g id="g5201">
+            <svg:path style="fill:#2ba9e0" inkscape:connector-curvature="0" d="m -139.2,423.7 c -13.3,-15.8 -21.3,-36.2 -21.3,-58.5 0,-46.5 34.9,-84.8 80,-90.1 -7.7,-11.2 -12.3,-24.8 -12.3,-39.4 0,-38.4 31.1,-69.4 69.5,-69.4 3.2,0 6.3,0.2 9.3,0.6 -22.7,-19.6 -45.4,-39.5 -63.3,-61.2 9.1,95.2 -86.7,60.6 -122.2,148.4 -23.7,58.8 -2.3,131.5 60.3,169.6 z" id="path5203" />
+          </svg:g>
+        </svg:g>
+      </svg:g>
+      </svg:g></svg:g></svg:svg>
